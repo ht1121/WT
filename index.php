@@ -1,3 +1,7 @@
+<php
+
+?>
+
 <!DOCTYPE html>
 <link href="style.css" rel="stylesheet">
 <html>
@@ -5,7 +9,6 @@
 	<title>UC News</title>
 </head>
 <body>
-<<<<<<< HEAD
 <div>
 
 <img src="" ></img>
@@ -13,9 +16,11 @@
 =======
 <h1>UC Flash News</h1>
 <div id="head1">
-<img src="img/1.jpg" style="width:50px;height:50px">
+<img id="img/1.jpg" img src="img/1.jpg" alt="Sampah di UC" style="width:50px;height:50px">
+<span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+<img class="modal-content" id="img/1.jpg">
+<div id="caption"></div>
 <h2><a href="">Banyaknya sampah di UC</a></h2>
->>>>>>> b86189db4be16921625e7adb9691bb94b47c7f26
 <p>Hari ini, hari yang cerah di UC. banyak anak-anak UC yang datang ke UC namun sampah-sampah di UC pun juga banyak</p>
 </div>
 <h2><a href="">Bocah UC pertama yang memiliki Anak</a></h2>
@@ -33,7 +38,6 @@
 <p>Hari ini, hari yang cerah di UC. banyak anak-anak UC yang datang ke UC namun sampah-sampah di UC pun juga banyak</p>
 
 <h2><a href="">Banyaknya sampah di UC</a></h2>
-<p>Hari ini, hari yang cerah di UC. banyak anak-anak UC yang datang ke UC namun sampah-sampah di UC pun juga banyak</p>
->>>>>>> b86189db4be16921625e7adb9691bb94b47c7f26
+<p>Hari ini, hari yang cerah di UC. banyak anak-anak UC yang datang ke UC namun sampah-sampah di UC pun juga banyak</p>=
 </body>
 </html>
