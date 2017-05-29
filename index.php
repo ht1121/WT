@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FlashNewsUC</title>
+	<title>News UC</title>
 </head>
 <body>
 
