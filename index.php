@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>News UC</title>
+	<title>UC News</title>
 </head>
 <body>
 
